@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: Dev_MainApp, Configuration: Debug Any CPU ------
+1>C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets(1561,5): warning MSB3247: Found conflicts between different versions of the same dependent assembly.
+1>  Dev_MainApp -> D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\Dev_MainApp.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
