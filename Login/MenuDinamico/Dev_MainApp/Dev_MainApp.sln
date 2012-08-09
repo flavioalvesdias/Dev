@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dev_MainApp", "Dev_MainApp\Dev_MainApp.csproj", "{51E25EEE-506C-4593-8DF8-93CB083663C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuDinamico", "MenuDinamico\MenuDinamico.csproj", "{CCC0E477-0C36-406F-9F6F-0DC6B3C49045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51E25EEE-506C-4593-8DF8-93CB083663C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E25EEE-506C-4593-8DF8-93CB083663C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E25EEE-506C-4593-8DF8-93CB083663C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E25EEE-506C-4593-8DF8-93CB083663C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCC0E477-0C36-406F-9F6F-0DC6B3C49045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC0E477-0C36-406F-9F6F-0DC6B3C49045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC0E477-0C36-406F-9F6F-0DC6B3C49045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC0E477-0C36-406F-9F6F-0DC6B3C49045}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\MenuDinamico\Dev_MainApp\MenuDinamico\bin\Debug\MenuDinamico.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\MenuDinamico\Dev_MainApp\MenuDinamico\bin\Debug\MenuDinamico.pdb
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\MenuDinamico\Dev_MainApp\MenuDinamico\obj\Debug\MenuDinamico.csprojResolveAssemblyReference.cache
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\MenuDinamico\Dev_MainApp\MenuDinamico\obj\Debug\MenuDinamico.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\MenuDinamico\Dev_MainApp\MenuDinamico\obj\Debug\MenuDinamico.pdb

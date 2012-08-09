@@ -1,0 +1,80 @@
+/*------------------------------------*
+    MENU
+*------------------------------------*/
+nav {
+    clear:both;
+    color:#FFF;
+    background:#000;
+    height:25px;
+    padding:5px;
+    font-size: 1em;
+    margin:25px 0;
+}
+nav ul {
+    padding:0;
+    margin:0;
+    list-style: none;
+    float: left;
+}
+nav ul li {
+    display: block;
+    float: left;
+    margin-right: 20px;
+    position: relative;
+}
+nav ul li a {
+    color: #666;
+    background: #000;
+    text-decoration: none;
+    padding:5px;
+    display:block;
+    margin:0;
+    float: left;
+    white-space:nowrap;
+}
+
+nav ul li a:link {
+    color: #FFF;
+}
+
+nav ul li a:first-of-type {
+    color: #FFF;
+}
+
+nav ul li a:hover {
+    background: #000;
+    color: #FFF;
+}
+nav .current-menu-item a {
+    background: #000;
+    color: #FFF;
+}
+nav ul li ul {
+    display: none;
+    float: none;
+    left: 0;
+    position: absolute;
+    top: 100%;
+    border: solid 1px #000;
+}
+nav ul li:hover > ul {
+    display: block;
+}
+nav ul li ul li,
+nav ul li ul li a {
+    float: none;
+    background: #444;
+    color: #666;
+}
+nav ul li ul li a:hover {
+    float: none;
+    background: #FFF;
+    color: #666;
+}
+nav ul li ul li {
+    margin: 0;
+}
+nav ul li ul li ul {
+    left: 100%;
+    top: 0;
+}
