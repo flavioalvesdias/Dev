@@ -1,0 +1,113 @@
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\Dev_MainApp.dll
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\Dev_MainApp.pdb
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\Antlr3.Runtime.dll
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\Dev_Appdb.dll
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\EntityFramework.dll
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\Newtonsoft.Json.dll
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\System.Net.Http.dll
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\System.Net.Http.Formatting.dll
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\System.Net.Http.WebRequest.dll
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\System.Web.Helpers.dll
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\System.Web.Http.dll
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\System.Web.Http.WebHost.dll
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\System.Web.Mvc.dll
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\System.Web.Optimization.dll
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\System.Web.Providers.dll
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\System.Web.Razor.dll
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\System.Web.WebPages.Deployment.dll
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\System.Web.WebPages.dll
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\System.Web.WebPages.Razor.dll
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\WebGrease.dll
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\Dev_Appdb.pdb
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\EntityFramework.xml
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\Newtonsoft.Json.xml
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\System.Net.Http.xml
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\System.Net.Http.Formatting.xml
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\System.Net.Http.WebRequest.xml
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\System.Web.Helpers.xml
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\System.Web.Http.xml
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\System.Web.Http.WebHost.xml
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\System.Web.Mvc.xml
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\System.Web.Razor.xml
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\System.Web.WebPages.xml
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\System.Web.WebPages.Deployment.xml
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\bin\System.Web.WebPages.Razor.xml
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\obj\Debug\Dev_MainApp.dll
+D:\Projetos .Net\Tutorias\Dev_MainApp\Dev_MainApp\obj\Debug\Dev_MainApp.pdb
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\Dev_MainApp.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\Dev_MainApp.pdb
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\Antlr3.Runtime.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\Dev_Appdb.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\EntityFramework.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\Newtonsoft.Json.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\System.Net.Http.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\System.Net.Http.Formatting.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\System.Net.Http.WebRequest.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\System.Web.Helpers.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\System.Web.Http.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\System.Web.Http.WebHost.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\System.Web.Mvc.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\System.Web.Optimization.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\System.Web.Providers.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\System.Web.Razor.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\System.Web.WebPages.Deployment.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\System.Web.WebPages.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\System.Web.WebPages.Razor.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\WebGrease.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\Dev_Appdb.pdb
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\EntityFramework.xml
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\Newtonsoft.Json.xml
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\System.Net.Http.xml
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\System.Net.Http.Formatting.xml
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\System.Net.Http.WebRequest.xml
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\System.Web.Helpers.xml
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\System.Web.Http.xml
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\System.Web.Http.WebHost.xml
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\System.Web.Mvc.xml
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\System.Web.Razor.xml
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\System.Web.WebPages.xml
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\System.Web.WebPages.Deployment.xml
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\bin\System.Web.WebPages.Razor.xml
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\obj\Debug\Dev_MainApp.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\obj\Debug\Dev_MainApp.pdb
+D:\Projetos .Net\Tutorias\Autenticacao User\Dev_MainApp\Dev_MainApp\obj\Debug\Dev_MainApp.csprojResolveAssemblyReference.cache
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\Dev_MainApp.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\Dev_MainApp.pdb
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\Antlr3.Runtime.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\Dev_Appdb.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\EntityFramework.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\Newtonsoft.Json.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\System.Net.Http.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\System.Net.Http.Formatting.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\System.Net.Http.WebRequest.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\System.Web.Helpers.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\System.Web.Http.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\System.Web.Http.WebHost.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\System.Web.Mvc.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\System.Web.Optimization.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\System.Web.Providers.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\System.Web.Razor.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\System.Web.WebPages.Deployment.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\System.Web.WebPages.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\System.Web.WebPages.Razor.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\WebGrease.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\Dev_Appdb.pdb
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\EntityFramework.xml
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\Newtonsoft.Json.xml
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\System.Net.Http.xml
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\System.Net.Http.Formatting.xml
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\System.Net.Http.WebRequest.xml
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\System.Web.Helpers.xml
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\System.Web.Http.xml
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\System.Web.Http.WebHost.xml
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\System.Web.Mvc.xml
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\System.Web.Razor.xml
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\System.Web.WebPages.xml
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\System.Web.WebPages.Deployment.xml
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\bin\System.Web.WebPages.Razor.xml
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\obj\Debug\Dev_MainApp.csprojResolveAssemblyReference.cache
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\obj\Debug\Dev_MainApp.dll
+D:\Projetos .Net\Tutorias\Autenticacao User\Login\Dev_MainApp\Dev_MainApp\obj\Debug\Dev_MainApp.pdb
