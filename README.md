@@ -19,3 +19,5 @@ AppMain: Aplicação principal, repositório para as demais aplicações;
 
 HelloWord: Uma aplicação que será executada dentro da AppMain. Para abrir a aplicação HelloWord dentro do content da aplicação AppMain, estarei usando o RazorGenerator. Para quem não conhece o RazorGenerator, existe um post no blog tratando o tema de modularização.
 Segue link para download da versão para VS2013 do RazorGenerator: RazorGenerator.
+
+flaviodev.blogspot.com
